@@ -1,0 +1,6 @@
+{
+  "name": "Trade track P&L",
+  "description": "A comprehensive trading profit and loss tracker and journal for Indian traders with offline support and mobile optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

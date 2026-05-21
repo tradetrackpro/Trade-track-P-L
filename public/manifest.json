@@ -1,0 +1,21 @@
+{
+  "name": "Trade track P&L",
+  "short_name": "Trade P&L",
+  "description": "The ultimate trading PNL tracker and calculator for Indian traders.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/10046/10046039.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/10046/10046039.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
